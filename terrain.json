@@ -1,0 +1,27 @@
+{
+    "terrain": [
+        "Forest",
+        "Ocean",
+        "Desert",
+        "Tundra",
+        "Mountain",
+        "Glacier",
+        "Swamp",
+        "Marsh",
+        "Grassland",
+        "Savanna",
+        "Plateau",
+        "Canyon",
+        "Volcano",
+        "Hill",
+        "Valley",
+        "Cave",
+        "Oasis",
+        "River",
+        "Lake",
+        "Waterfall",
+        "Island",
+        "Archipelago",
+        "Peninsula"
+    ]
+}

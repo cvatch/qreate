@@ -1,0 +1,17 @@
+{
+    "room": [
+        "bedroom",
+        "living room",
+        "kitchen",
+        "library",
+        "study",
+        "art studio",
+        "observatory",
+        "laboratory",
+        "greenhouse",
+        "throne room",
+        "dungeon",
+        "attic",
+        "ballroom"
+    ]
+}

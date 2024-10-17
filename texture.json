@@ -1,0 +1,11 @@
+{
+    "texture": [
+        "smooth",
+        "rough",
+        "textured",
+        "patterned",
+        "coffered",
+        "beamed",
+        "frescoed"
+    ]
+}

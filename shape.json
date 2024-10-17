@@ -1,0 +1,29 @@
+{
+    "shape": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle",
+        "Oval",
+        "Diamond",
+        "Star",
+        "Heart",
+        "Crescent",
+        "Pentagon",
+        "Hexagon",
+        "Octagon",
+        "Trapezoid",
+        "Parallelogram",
+        "Rhombus",
+        "Cylinder",
+        "Cone",
+        "Sphere",
+        "Cube",
+        "Pyramid",
+        "Prism",
+        "Torus",
+        "Helix",
+        "M\u00f6bius Strip",
+        "Klein Bottle"
+    ]
+}

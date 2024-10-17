@@ -1,0 +1,11 @@
+{
+    "timeofday": [
+        "dawn",
+        "morning",
+        "midday",
+        "afternoon",
+        "dusk",
+        "evening",
+        "night"
+    ]
+}

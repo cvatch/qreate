@@ -1,0 +1,16 @@
+{
+    "elements": [
+        "Air",
+        "Electric",
+        "Fire",
+        "Plants",
+        "Ground",
+        "Ice",
+        "Light",
+        "Metal",
+        "Poison",
+        "Water",
+        "Earth",
+        "Rock"
+    ]
+}
